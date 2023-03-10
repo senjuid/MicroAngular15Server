@@ -11,7 +11,7 @@ sharedMappings.register(
 module.exports = {
   output: {
     uniqueName: "app",
-    publicPath: "auto"
+    publicPath: "https://senjuid.github.io/MicroAngular15Server/"
   },
   optimization: {
     runtimeChunk: false
