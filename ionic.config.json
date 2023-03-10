@@ -1,0 +1,7 @@
+{
+  "name": "MicroAngular15Server",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
